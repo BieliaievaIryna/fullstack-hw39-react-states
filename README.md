@@ -70,7 +70,6 @@ react-state-stateless/
 ## Демо проекту
 
 Розгорнуто на Vercel: https://fullstack-hw39-react-states.vercel.app/
-(Заміни на власне посилання)
 
 ## Критерії оцінювання
 
