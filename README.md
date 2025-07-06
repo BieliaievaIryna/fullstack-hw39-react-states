@@ -9,8 +9,6 @@
 - **Stateful функціональний компонент** (`ClickCounter`) з використанням React-хука `useState`.  
 - **Stateful класовий компонент** (`ClickCounterClass`), який керує своїм станом через `this.state` та `this.setState`.
 
----
-
 ## Інструкції зі встановлення та запуску
 
 ### 1. Клонуйте репозиторій:
@@ -32,7 +30,7 @@ npm install
 npm run dev
 ```
 
-### 4. Відкрийте у браузері адресу, що виведе команда (наприклад, http://localhost:5173).
+Відкрийте у браузері адресу, що виведе команда (наприклад, http://localhost:5173).
 
 ## Структура проекту
 ```text
@@ -71,7 +69,7 @@ react-state-stateless/
 
 ## Демо проекту
 
-Розгорнуто на Vercel: https://your-vercel-url.vercel.app
+Розгорнуто на Vercel: https://fullstack-hw39-react-states.vercel.app/
 (Заміни на власне посилання)
 
 ## Критерії оцінювання
